@@ -1,4 +1,5 @@
 while True:
+    import math as M
     options=["Find Areas of","1.Square","2.Rectangle","3.Circle","4.Triangle"]
     for i in options:
         print(i)
